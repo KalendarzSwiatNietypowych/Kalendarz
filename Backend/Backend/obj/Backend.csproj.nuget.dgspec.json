@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studia\\Semestr 4\\Inżynieria Oprogramowania\\Projekt\\Projekt\\Kalendarz\\Kalendarz\\Backend\\Backend\\Backend.csproj": {}
+    "D:\\Studia\\Semestr 4\\Inżynieria Oprogramowania\\Projekt\\Projekt\\Kalendarz\\Backend\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "D:\\Studia\\Semestr 4\\Inżynieria Oprogramowania\\Projekt\\Projekt\\Kalendarz\\Kalendarz\\Backend\\Backend\\Backend.csproj": {
+    "D:\\Studia\\Semestr 4\\Inżynieria Oprogramowania\\Projekt\\Projekt\\Kalendarz\\Backend\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studia\\Semestr 4\\Inżynieria Oprogramowania\\Projekt\\Projekt\\Kalendarz\\Kalendarz\\Backend\\Backend\\Backend.csproj",
+        "projectUniqueName": "D:\\Studia\\Semestr 4\\Inżynieria Oprogramowania\\Projekt\\Projekt\\Kalendarz\\Backend\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "D:\\Studia\\Semestr 4\\Inżynieria Oprogramowania\\Projekt\\Projekt\\Kalendarz\\Kalendarz\\Backend\\Backend\\Backend.csproj",
+        "projectPath": "D:\\Studia\\Semestr 4\\Inżynieria Oprogramowania\\Projekt\\Projekt\\Kalendarz\\Backend\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\wojte\\.nuget\\packages\\",
-        "outputPath": "D:\\Studia\\Semestr 4\\Inżynieria Oprogramowania\\Projekt\\Projekt\\Kalendarz\\Kalendarz\\Backend\\Backend\\obj\\",
+        "outputPath": "D:\\Studia\\Semestr 4\\Inżynieria Oprogramowania\\Projekt\\Projekt\\Kalendarz\\Backend\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Pliki programow (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,9 +44,47 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.17.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.17.0, )"
             }
           },
           "imports": [
