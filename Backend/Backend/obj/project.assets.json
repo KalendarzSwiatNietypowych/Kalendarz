@@ -208,24 +208,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wojte\\.nuget\\packages\\": {},
-    "D:\\Pliki programow (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\domin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studia\\Semestr 4\\Inżynieria Oprogramowania\\Projekt\\Projekt\\Kalendarz\\Kalendarz\\Backend\\Backend\\Backend.csproj",
+      "projectUniqueName": "D:\\Projekt\\Kalendarz\\Backend\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "D:\\Studia\\Semestr 4\\Inżynieria Oprogramowania\\Projekt\\Projekt\\Kalendarz\\Kalendarz\\Backend\\Backend\\Backend.csproj",
-      "packagesPath": "C:\\Users\\wojte\\.nuget\\packages\\",
-      "outputPath": "D:\\Studia\\Semestr 4\\Inżynieria Oprogramowania\\Projekt\\Projekt\\Kalendarz\\Kalendarz\\Backend\\Backend\\obj\\",
+      "projectPath": "D:\\Projekt\\Kalendarz\\Backend\\Backend\\Backend.csproj",
+      "packagesPath": "C:\\Users\\domin\\.nuget\\packages\\",
+      "outputPath": "D:\\Projekt\\Kalendarz\\Backend\\Backend\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Pliki programow (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\wojte\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\domin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -274,7 +269,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
