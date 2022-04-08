@@ -1,1 +1,0 @@
-export const GET_HOLIDAY = "GET_HOLIDAY";
